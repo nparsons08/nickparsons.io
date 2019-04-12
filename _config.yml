@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -104,6 +104,10 @@ topics:
   - name: PostgreSQL
     web_url: https://github.com/topics/postgresql
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/postgresql/postgresql.png
+
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/react-native/react-native.png    
 
   - name: React Native
     web_url: https://github.com/topics/react-native
