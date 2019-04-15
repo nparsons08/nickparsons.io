@@ -52,7 +52,7 @@
 
 @media only screen and (min-width: 900px) {
   div#stick {
-    position: -webkit-sticky !important;
+  position: -webkit-sticky !important;
     position: sticky !important;
     top: 0 !important;
     background-color: #fff;
@@ -68,4 +68,28 @@
   div.f4 {
     margin-bottom: 10px !important;
   }
+}
+
+div.footer {
+  font-family: 'Indie Flower', cursive;
+  position: relative;
+}
+
+p#take-one {
+  text-align: center;
+  font-size: 24px;
+}
+
+.icon {
+  position: inline-flex;
+  align-self: center;
+}
+
+footer {
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
+  position: inline-flex;
+  align-self: center;
+  text-align: center;
+  margin-top: 20px;
 }
