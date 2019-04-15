@@ -41,3 +41,25 @@
 .min-height-full {
   min-height: 100vh;
 }
+
+.bg-gray-light {
+  background-color: #fff !important;
+}
+
+div#stick {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0 !important;
+  background-color: #fff;
+  position: absolute;
+  padding-bottom: 20px;
+  z-index: 99;
+}
+
+div.my-6 {
+  margin-top: 0px !important;
+}
+
+div.f4 {
+  margin-bottom: 10px !important;
+}
