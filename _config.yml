@@ -123,9 +123,13 @@ topics:
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
+  - name: Swift
+    web_url: https://github.com/topics/swift
+    image_url: https://raw.githubusercontent.com/github/explore/3d1889c1e66daaa77be2b2732ea8681d21e56ab0/topics/swift/swift.png
+
   - name: Typescript
     web_url: https://github.com/topics/typescript
-    image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/typescript/typescript.png
+    image_url: https://raw.githubusercontent.com/github/explore/3d1889c1e66daaa77be2b2732ea8681d21e56ab0/topics/typescript/typescript.png
 
   - name: Web Components
     web_url: https://github.com/topics/web-components
@@ -134,6 +138,10 @@ topics:
   - name: Webpack
     web_url: https://github.com/topics/webpack
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/webpack/webpack.png
+
+  - name: Xcode
+    web_url: https://github.com/topics/xcode
+    image_url: https://raw.githubusercontent.com/github/explore/3d1889c1e66daaa77be2b2732ea8681d21e56ab0/topics/xcode/xcode.png
 
 certifications:
   - name: Google Mobile Sites
