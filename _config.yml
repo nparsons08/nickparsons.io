@@ -36,6 +36,10 @@ social_media:
   website: https://nickparsons.io
 
 topics:
+  - name: Algolia
+    web_url: https://github.com/topics/algolia
+    image_url: https://raw.githubusercontent.com/github/explore/ef2e43512bb3fb76803e5cda99a87bcc4b601b7a/topics/algolia/algolia.png
+
   - name: AWS
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/aws/aws.png
@@ -84,6 +88,10 @@ topics:
     web_url: https://github.com/topics/mongodb
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/mongodb/mongodb.png
 
+  - name: Mongoose
+    web_url: https://github.com/topics/mongoose
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png
+
   - name: Node
     web_url: https://github.com/topics/node
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/nodejs/nodejs.png
@@ -103,6 +111,10 @@ topics:
   - name: Redux
     web_url: https://github.com/topics/redux
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/redux/redux.png
+
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+    image_url: https://avatars1.githubusercontent.com/u/13742415?s=400&v=4
 
 certifications:
   - name: MongoDB for Node.js Developers
