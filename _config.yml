@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     forks: true
     projects:
@@ -100,9 +100,13 @@ topics:
     web_url: https://github.com/topics/react-native
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/react-native/react-native.png
 
-  - name: Redux
-    web_url: https://github.com/topics/redux
-    image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/redux/redux.png
+  - name: Redis
+    web_url: https://github.com/topics/redis
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png
+
+  - name: Stream
+    web_url: https://github.com/topics/getstream-io
+    image_url: https://avatars3.githubusercontent.com/u/8597527?s=200&v=4
 
 certifications:
   - name: MongoDB for Node.js Developers
